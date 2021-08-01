@@ -43,16 +43,16 @@
 可以服用下面的css:
 ```
 @font-face {
-  font-family: SweiDelLunaSansCJKtc-Regular;
-  src: url(https://cdn.jsdelivr.net/gh/max32002/swei-right-bottom-sans@2.130/WebFont/CJK%20TC/SweiDelLunaSansCJKtc-Regular.woff2) format("woff2");
+  font-family: SweiRightBottomSansCJKtc-Regular;
+  src: url(https://cdn.jsdelivr.net/gh/max32002/swei-right-bottom-sans@2.130/WebFont/CJK%20TC/SweiRightBottomSansCJKtc-Regular.woff2) format("woff2");
 }
 @font-face {
-  font-family: SweiDelLunaSansCJKsc-Regular;
-  src: url(https://cdn.jsdelivr.net/gh/max32002/swei-right-bottom-sans@2.130/WebFont/CJK%20SC/SweiDelLunaSansCJKsc-Regular.woff2) format("woff2");
+  font-family: SweiRightBottomSansCJKsc-Regular;
+  src: url(https://cdn.jsdelivr.net/gh/max32002/swei-right-bottom-sans@2.130/WebFont/CJK%20SC/SweiRightBottomSansCJKsc-Regular.woff2) format("woff2");
 }
 @font-face {
-  font-family: SweiDelLunaSansCJKjp-Regular;
-  src: url(https://cdn.jsdelivr.net/gh/max32002/swei-right-bottom-sans@2.130/WebFont/CJK%20JP/SweiDelLunaSansCJKjp-Regular.woff2) format("woff2");
+  font-family: SweiRightBottomSansCJKjp-Regular;
+  src: url(https://cdn.jsdelivr.net/gh/max32002/swei-right-bottom-sans@2.130/WebFont/CJK%20JP/SweiRightBottomSansCJKjp-Regular.woff2) format("woff2");
 }
 ```
 
