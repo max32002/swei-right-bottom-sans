@@ -4,10 +4,10 @@
 
 「獅尾右下圓黑體」與「獅尾右下腿黑體」差別在有沒有拔腳，「拔腳」就是會有較少的筆畫，例如移除「口」字的左右下角會多出的短線條。有拔腳的字會較圓，但是會造成有些字因直接去掉腿後左右不平衡、左右不對襯的「懸空」問題。改使用「腿」系列字體就不會有這個問題。
 
-![字體預覽](https://github.com/max32002/swei-right-bottom-sans/raw/main/preview/welcome.jpg)
+![字體預覽](https://github.com/max32002/swei-right-bottom-sans/raw/master/preview/welcome.jpg)
 
 和思源黑體一樣，支援7種的字重：
-![字體比較預覽](https://github.com/max32002/swei-right-bottom-sans/raw/main/preview/compare_style.jpg)
+![字體比較預覽](https://github.com/max32002/swei-right-bottom-sans/raw/master/preview/compare_style.jpg)
 附註：目前有些筆畫還沒有套用到效果，是程式需要改進的地方。
 
 ## 與其他字體的比較
@@ -23,7 +23,7 @@
 * 相同一個字，在不地區的書寫方式可能會略有不同。
 
 ### 「CJK TC」和「CJK SC」的比較：
-![TC和SC比較](https://github.com/max32002/swei-right-bottom-sans/raw/main/preview/compare_tc_sc.png)
+![TC和SC比較](https://github.com/max32002/swei-right-bottom-sans/raw/master/preview/compare_tc_sc.png)
 * 在「肉」、「糸」、「女」、「辶」、「食」的筆畫不同，CJK SC 「肉字旁部首」變成「月」。 
 * 在「草」部的筆畫，CJK SC 中間連起來。
 * 「體」字的骨上方方向相反。
