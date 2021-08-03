@@ -108,6 +108,8 @@ https://max-everyday.com/2020/11/swei-fan-sans/
 https://max-everyday.com/2020/11/swei-fan-serif/
 
 獅尾黑體家族：
+* 獅尾右下腿黑體 Swei Right Bottom Leg
+https://max-everyday.com/2021/08/swei-right-bottom-leg/
 * 獅尾右下圓黑體 Swei Right Bottom Sans
 https://max-everyday.com/2021/08/swei-right-bottom-sans/
 * 獅尾飛腿黑體 Swei Dart Leg
@@ -159,9 +161,9 @@ https://max-everyday.com/2020/09/swei-gospel-leg/
 * 獅尾福音黑體 Swei Gospel Sans
 https://max-everyday.com/2020/09/swei-gospel-sans/
 * 獅尾D滷腿黑體 Swei Del Luna Leg
-https://max-everyday.com/2020/09/swei-right-bottom-leg/
+https://max-everyday.com/2020/09/swei-del-luna-leg/
 * 獅尾德魯納黑體 Swei Del Luna Sans
-https://max-everyday.com/2020/09/swei-right-bottom-sans/
+https://max-everyday.com/2020/09/swei-del-luna-sans/
 * 獅尾彎腿黑體 Swei Curve Leg
 https://max-everyday.com/2020/09/swei-curve-leg/
 * 獅尾彎黑體 Swei Curve Sans
